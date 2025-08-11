@@ -113,27 +113,7 @@ var config = {
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
-        },
-         {
-            id: 'fifth-identifier',
-            alignment: 'right',
-            hidden: false,
-            title: '',
-            image: '',
-            description: '',
-            location: {
-                center: [29.010, 40.994],
-                zoom: 18,
-                pitch: 0,
-                bearing: 0.00
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
         }
-         
        
        
     ]
